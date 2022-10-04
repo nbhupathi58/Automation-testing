@@ -32,6 +32,7 @@ public class Windowhandle {
 		}
 		Thread.sleep(2000);
 		
+		//quiting the webdriver session
 		driver.quit();
 	}
 
