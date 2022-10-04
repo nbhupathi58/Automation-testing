@@ -1,3 +1,3 @@
 # Automation-testing
-Automation testing on Interview web page.
+Automation testing on Interview web page
 Edit line : Edit made in branch.
