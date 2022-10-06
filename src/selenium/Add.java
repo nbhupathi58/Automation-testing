@@ -8,7 +8,7 @@ public class Add {
 		int b=10;
 		
 		//this statement prints the sum value
-		System.out.println("summ of 'a' and 'b' is: "+a+b);
+		System.out.println("sum of 'a' and 'b' is: "+a+b);
 
 	}
 
