@@ -31,7 +31,7 @@ public class Windowhandle {
 			if (handle.equals(s)) driver.switchTo().window(handle);
 		}
 		Thread.sleep(2000);
-		
+		//ending browser session
 		driver.quit();
 	}
 
